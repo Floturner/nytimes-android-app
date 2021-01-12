@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">The NY Times</string>
+    <string name="article_activity_title">Article</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">The New York Times</string>
+    <string name="nav_header_subtitle">www.nytimes.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="action_refresh">Refresh</string>
+    <string name="action_article_share">Share</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_movies">Movies</string>
+    <string name="nav_politics">Politics</string>
+    <string name="nav_science">Science</string>
+    <string name="nav_sports">Sports</string>
+    <string name="nav_technology">Technology</string>
+
+    <string-array name="sections">
+        <item>home</item>
+        <item>movies</item>
+        <item>politics</item>
+        <item>science</item>
+        <item>sports</item>
+        <item>technology</item>
+    </string-array>
+
+    <string name="article_cover_img_desc">Article cover image</string>
+
+    <string name="nothing_to_display">Nothing to display</string>
+    <string name="network_troubleshoot">Please check your internet connection</string>
+</resources>
