@@ -7,7 +7,7 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 public class APIClient {
-    public static final String API_KEY = "OAxMKhGEXC2JZtTRztbOxn6UhcdnLnBb";
+    public static final String API_KEY = "your-api-key-here";
     private static final String BASE_URL = "https://api.nytimes.com/svc/topstories/v2/";
     private static Retrofit retrofit = null;
 
